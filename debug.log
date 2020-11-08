@@ -1,0 +1,6 @@
+[1029/020958.818:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1030/021343.387:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1103/050028.247:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1106/060512.488:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1108/001258.430:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1108/060911.820:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Feryal-PC\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\2291f498-65ef-4af5-9288-d33afcc4797d: The system cannot find the path specified. (0x3)
